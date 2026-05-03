@@ -1,0 +1,23 @@
+# ============================================
+# AI-Driven Public Health Chatbot - Dependencies
+# ============================================
+
+# --- Phase 1: Core Backend ---
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+pydantic-settings==2.14.0
+python-dotenv==1.0.1
+
+# --- Phase 2: RAG Pipeline ---
+chromadb==0.6.3
+sentence-transformers==3.3.1
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-text-splitters==0.3.4
+
+# --- Phase 3: LLM Inference ---
+groq==0.13.1
+
+# --- Utilities ---
+httpx==0.28.1

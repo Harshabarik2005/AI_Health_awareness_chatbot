@@ -1,0 +1,41 @@
+TUBERCULOSIS (TB) - WHO/CDC Public Health Guidelines
+
+Overview:
+Tuberculosis (TB) is an infectious disease caused by the bacterium Mycobacterium tuberculosis. It most commonly affects the lungs (pulmonary TB) but can also affect other parts of the body (extrapulmonary TB). TB spreads through the air when an infected person coughs, sneezes, or speaks. In 2022, an estimated 10.6 million people fell ill with TB, and 1.3 million people died from the disease worldwide.
+
+Types of TB:
+1. Latent TB infection (LTBI): The bacteria are present in the body but inactive. The person has no symptoms and is not contagious. LTBI can progress to active TB disease if not treated.
+2. Active TB disease: The bacteria are active and multiplying. The person has symptoms and can spread TB to others.
+
+Symptoms of Active Pulmonary TB:
+- Persistent cough lasting 3 weeks or more
+- Coughing up blood or sputum
+- Chest pain
+- Unintentional weight loss
+- Fatigue and weakness
+- Fever and night sweats
+- Loss of appetite
+- Chills
+
+Drug-Resistant TB:
+- Multidrug-resistant TB (MDR-TB): Resistant to at least isoniazid and rifampicin, the two most important first-line TB drugs.
+- Extensively drug-resistant TB (XDR-TB): Resistant to isoniazid, rifampicin, fluoroquinolones, and at least one injectable agent.
+Drug-resistant TB requires longer, more complex, and more expensive treatment regimens.
+
+Prevention:
+1. BCG vaccination: The Bacille Calmette-Guérin (BCG) vaccine is given to infants and young children in countries with high TB prevalence. It provides partial protection against severe forms of childhood TB.
+2. Infection control: Ensure good ventilation in indoor spaces, practice cough etiquette, and wear masks in healthcare settings.
+3. TB preventive treatment (TPT): People with LTBI, HIV-positive individuals, and close contacts of TB patients should receive preventive therapy (isoniazid, rifapentine, or rifampicin).
+4. Early detection and treatment: Promptly identify and treat active TB cases to reduce transmission.
+
+Treatment:
+- Standard first-line treatment for drug-susceptible TB is a 6-month regimen: 2 months of isoniazid, rifampicin, pyrazinamide, and ethambutol (intensive phase), followed by 4 months of isoniazid and rifampicin (continuation phase).
+- MDR-TB treatment typically lasts 9–20 months and includes second-line drugs such as bedaquiline, pretomanid, and linezolid (BPaL regimen).
+- Directly Observed Therapy (DOT): Healthcare workers or trained volunteers observe patients taking their medication to ensure adherence.
+- Treatment for LTBI: 3–9 months of preventive therapy, depending on the regimen used.
+
+When to Seek Medical Help:
+Seek medical attention if you have a persistent cough lasting more than 3 weeks, unexplained weight loss, fever, or night sweats. Get tested for TB if you have been in close contact with someone diagnosed with active TB.
+
+Source: World Health Organization (WHO), Centers for Disease Control and Prevention (CDC)
+Last Updated: January 2025

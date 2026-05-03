@@ -1,0 +1,38 @@
+CHOLERA - WHO/CDC Public Health Guidelines
+
+Overview:
+Cholera is an acute diarrheal disease caused by the bacterium Vibrio cholerae, specifically serogroups O1 and O139. It spreads through contaminated water and food. Cholera can kill within hours if left untreated. An estimated 1.3–4.0 million cholera cases and 21,000–143,000 deaths occur annually worldwide. Cholera remains a global threat to public health, particularly in areas with inadequate water, sanitation, and hygiene (WASH) infrastructure.
+
+Symptoms:
+Most people infected with V. cholerae do not develop symptoms, but the bacteria can be present in their feces for 1–10 days. Among those who develop symptoms:
+- Profuse watery diarrhea ("rice-water stools")
+- Vomiting
+- Rapid dehydration
+- Muscle cramps (due to electrolyte loss)
+- Thirst
+- Restlessness or irritability
+- Sunken eyes
+- Dry mouth and skin
+- Reduced urine output
+- Rapid heart rate and low blood pressure
+Severe dehydration can lead to kidney failure, shock, and death within hours if untreated.
+
+Prevention:
+1. Safe water: Drink only treated, boiled, or bottled water. Avoid ice unless made from safe water.
+2. Food safety: Eat thoroughly cooked foods while they are still hot. Avoid raw or undercooked seafood. Peel fruits and vegetables yourself.
+3. Hygiene: Wash hands frequently with soap and water, especially before eating and after using the toilet. Use latrines or bury feces away from water sources.
+4. Oral cholera vaccines (OCV): WHO-prequalified vaccines (e.g., Shanchol, Euvichol-Plus) are available for use in endemic areas and during outbreaks. Typically given as two doses, 14 days apart.
+5. WASH infrastructure: Invest in clean water supply systems, sanitation facilities, and community hygiene education.
+
+Treatment:
+- Oral Rehydration Solution (ORS): The cornerstone of cholera treatment. ORS replaces lost fluids and electrolytes. Prepared by dissolving ORS packets in clean water.
+- Intravenous fluids: Severely dehydrated patients require rapid IV rehydration with Ringer's lactate solution.
+- Zinc supplements: Recommended for children under 5 to reduce the duration and severity of diarrhea.
+- Antibiotics: Used in severe cases to reduce the duration and volume of diarrhea. Common antibiotics include doxycycline, azithromycin, and ciprofloxacin.
+- Nutritional support: Continue feeding, especially for children, to maintain nutrition during illness.
+
+When to Seek Medical Help:
+Seek immediate medical attention if you or someone you know develops severe watery diarrhea, especially in an area where cholera is known to occur. Rapid dehydration from cholera can be fatal within hours without treatment.
+
+Source: World Health Organization (WHO), Centers for Disease Control and Prevention (CDC)
+Last Updated: December 2024

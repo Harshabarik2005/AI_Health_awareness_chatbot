@@ -1,0 +1,48 @@
+# Diabetes Mellitus (Type 1 and Type 2)
+
+## Overview
+Diabetes mellitus refers to a group of diseases that affect how the body uses blood sugar (glucose). Glucose is vital to health because it's an important source of energy for the cells that make up muscles and tissues.
+
+## Types
+- **Type 1 Diabetes:** A chronic condition in which the pancreas produces little or no insulin.
+- **Type 2 Diabetes:** A chronic condition that affects the way the body processes blood sugar (glucose). The body either doesn't produce enough insulin, or it resists insulin.
+- **Prediabetes:** A condition in which blood sugar is high, but not high enough to be type 2 diabetes.
+- **Gestational Diabetes:** High blood sugar that develops during pregnancy.
+
+## Symptoms
+Common symptoms of diabetes include:
+- Increased thirst (polydipsia)
+- Frequent urination (polyuria)
+- Extreme hunger (polyphagia)
+- Unexplained weight loss
+- Presence of ketones in the urine (a byproduct of muscle and fat breakdown)
+- Fatigue and weakness
+- Irritability
+- Blurred vision
+- Slow-healing sores
+- Frequent infections, such as gums or skin infections and vaginal infections.
+
+## Causes
+- **Type 1:** The exact cause is unknown. The immune system attacks and destroys insulin-producing cells in the pancreas.
+- **Type 2 & Prediabetes:** Cells become resistant to the action of insulin, and the pancreas is unable to make enough insulin to overcome this resistance. Being overweight is strongly linked to the development of type 2 diabetes.
+
+## Risk Factors
+- Family history
+- Weight and physical inactivity
+- Age (especially for Type 2)
+- High blood pressure and abnormal cholesterol levels
+
+## Complications
+- Cardiovascular disease (heart attack, stroke)
+- Neuropathy (nerve damage)
+- Nephropathy (kidney damage)
+- Retinopathy (eye damage)
+- Foot damage
+- Skin conditions
+
+## Prevention and Management
+- Eating healthy foods (low in fat and calories, high in fiber).
+- Getting more physical activity (aim for at least 150 minutes of moderate aerobic activity a week).
+- Losing excess pounds.
+- Medications such as insulin therapy or oral medications (e.g., Metformin).
+- Regular blood sugar monitoring.

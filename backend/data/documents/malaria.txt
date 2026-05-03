@@ -1,0 +1,47 @@
+MALARIA - WHO/CDC Public Health Guidelines
+
+Overview:
+Malaria is a life-threatening disease caused by Plasmodium parasites, transmitted to humans through the bites of infected female Anopheles mosquitoes. There are five species of Plasmodium that cause malaria in humans: P. falciparum (the most dangerous), P. vivax, P. ovale, P. malariae, and P. knowlesi. In 2022, there were an estimated 249 million malaria cases and 608,000 malaria deaths worldwide.
+
+Symptoms:
+Malaria symptoms typically appear 10–15 days after the infective mosquito bite. Symptoms include:
+- Fever and chills (often cyclical)
+- Headache
+- Muscle aches and fatigue
+- Nausea, vomiting, and diarrhea
+- Sweating
+- Abdominal pain
+- Cough
+- Rapid heart rate
+
+Severe Malaria:
+P. falciparum malaria can progress rapidly to severe disease, which includes:
+- Cerebral malaria (impaired consciousness, seizures, coma)
+- Severe anemia
+- Respiratory distress (acidotic breathing)
+- Acute kidney injury
+- Hypoglycemia (low blood sugar)
+- Liver failure and jaundice
+- Abnormal bleeding
+- Shock
+Severe malaria is a medical emergency requiring immediate hospitalization and treatment.
+
+Prevention:
+1. Mosquito bite prevention: Use insecticide-treated bed nets (ITNs), apply insect repellent, wear protective clothing, and use indoor residual spraying (IRS).
+2. Chemoprophylaxis: Travelers to malaria-endemic areas should take preventive antimalarial medication as prescribed (e.g., atovaquone-proguanil, doxycycline, or mefloquine).
+3. Seasonal malaria chemoprevention (SMC): Administered to children in high-transmission areas during the rainy season.
+4. Vaccination: The RTS,S/AS01 (Mosquirix) vaccine and the R21/Matrix-M vaccine have been recommended by WHO for children in areas with moderate to high P. falciparum transmission.
+5. Environmental control: Eliminate mosquito breeding sites by draining stagnant water.
+
+Treatment:
+- Artemisinin-based combination therapies (ACTs) are the most effective treatment for uncomplicated P. falciparum malaria.
+- Chloroquine remains effective for P. vivax malaria in areas without resistance.
+- Severe malaria is treated with intravenous artesunate, followed by a full course of ACT.
+- Primaquine or tafenoquine is used to eliminate dormant P. vivax and P. ovale parasites from the liver.
+- Supportive care includes managing fever, dehydration, and anemia.
+
+When to Seek Medical Help:
+Seek immediate medical attention if you develop fever during or after travel to a malaria-endemic area, especially within 3 months of return. Early diagnosis and treatment are critical to preventing severe disease and death.
+
+Source: World Health Organization (WHO), Centers for Disease Control and Prevention (CDC)
+Last Updated: February 2025

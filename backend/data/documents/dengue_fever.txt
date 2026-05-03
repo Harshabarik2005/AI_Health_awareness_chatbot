@@ -1,0 +1,47 @@
+DENGUE FEVER - WHO/CDC Public Health Guidelines
+
+Overview:
+Dengue fever is a mosquito-borne viral infection caused by the dengue virus (DENV). It is transmitted primarily by the Aedes aegypti mosquito and, to a lesser extent, by Aedes albopictus. Dengue is prevalent in tropical and subtropical regions worldwide, with an estimated 100–400 million infections occurring each year.
+
+Symptoms:
+Dengue fever typically presents 4–10 days after being bitten by an infected mosquito. Common symptoms include:
+- High fever (40°C / 104°F)
+- Severe headache
+- Pain behind the eyes (retro-orbital pain)
+- Muscle and joint pain (often called "breakbone fever")
+- Nausea and vomiting
+- Skin rash (appearing 2–5 days after fever onset)
+- Mild bleeding (such as nose or gum bleeding, easy bruising)
+- Fatigue
+
+Severe Dengue (Dengue Hemorrhagic Fever):
+Severe dengue is a potentially fatal complication. Warning signs typically appear 24–48 hours after the fever subsides and include:
+- Severe abdominal pain
+- Persistent vomiting
+- Rapid breathing
+- Bleeding gums or nose
+- Blood in vomit or stool
+- Extreme fatigue or restlessness
+- Liver enlargement
+- Fluid accumulation in the abdomen or lungs
+Severe dengue requires immediate medical attention and hospitalization.
+
+Prevention:
+There is no specific antiviral treatment for dengue. Prevention focuses on:
+1. Mosquito bite prevention: Use insect repellent (DEET, picaridin, or IR3535), wear long-sleeved clothing, and use mosquito nets.
+2. Eliminate breeding sites: Remove standing water from containers, flower pots, tires, and other items that collect rainwater.
+3. Community efforts: Support local vector control programs and ensure proper waste management.
+4. Vaccination: The Dengvaxia (CYD-TDV) vaccine is approved for use in some countries for individuals aged 9–45 who have had a prior confirmed dengue infection. The TAK-003 (Qdenga) vaccine has been approved for broader use.
+
+Treatment:
+- Rest and adequate fluid intake
+- Acetaminophen (paracetamol) for fever and pain relief
+- Avoid aspirin and NSAIDs (ibuprofen, naproxen) as they increase bleeding risk
+- Seek immediate medical care if warning signs of severe dengue appear
+- Hospitalized patients may require intravenous fluid replacement and close monitoring
+
+When to Seek Medical Help:
+Seek immediate medical attention if you experience severe abdominal pain, persistent vomiting, difficulty breathing, bleeding, or extreme fatigue during or after a dengue infection.
+
+Source: World Health Organization (WHO), Centers for Disease Control and Prevention (CDC)
+Last Updated: March 2025

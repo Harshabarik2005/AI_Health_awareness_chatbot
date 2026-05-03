@@ -1,0 +1,69 @@
+# HIV/AIDS
+
+## Overview
+Human immunodeficiency virus (HIV) is an infection that attacks the body's immune system, specifically the white blood cells called CD4 cells. HIV destroys these CD4 cells, weakening a person's immunity against opportunistic infections, such as tuberculosis and fungal infections, severe bacterial infections and some cancers.
+Acquired immunodeficiency syndrome (AIDS) is the most advanced stage of the disease, which occurs when the body's immune system is badly damaged because of the virus.
+
+## Symptoms
+The symptoms of HIV and AIDS vary, depending on the phase of infection.
+
+### Primary infection (Acute HIV)
+Some people infected by HIV develop a flu-like illness within two to four weeks after the virus enters the body. Symptoms can include:
+- Fever
+- Headache
+- Muscle aches and joint pain
+- Rash
+- Sore throat and painful mouth sores
+- Swollen lymph glands, mainly on the neck
+- Diarrhea
+- Weight loss
+- Cough
+- Night sweats
+
+### Clinical latent infection (Chronic HIV)
+In this stage, HIV is still present in the body and in white blood cells. However, many people may not have any symptoms or infections during this time. This stage can last for many years if not receiving antiretroviral therapy (ART). People receiving ART may be in this stage for several decades.
+
+### Symptomatic HIV infection
+As the virus continues to multiply and destroy immune cells, individuals may develop mild infections or chronic symptoms such as:
+- Fever
+- Fatigue
+- Swollen lymph nodes
+- Diarrhea
+- Weight loss
+- Oral yeast infection (thrush)
+- Shingles (herpes zoster)
+- Pneumonia
+
+### Progression to AIDS
+If untreated, HIV typically progresses to AIDS in about 8 to 10 years. Symptoms of AIDS include:
+- Sweats
+- Chills
+- Recurring fever
+- Chronic diarrhea
+- Swollen lymph glands
+- Persistent white spots or unusual lesions on the tongue or in the mouth
+- Unexplained fatigue
+- Weakness
+- Weight loss
+- Skin rashes or bumps
+
+## Causes
+HIV is caused by a virus. It can spread through sexual contact, illicit injection drug use or sharing needles, contact with infected blood, or from mother to child during pregnancy, childbirth or breast-feeding.
+HIV is **not** spread through ordinary contact (hugging, kissing, dancing, shaking hands), air, water, or insect bites.
+
+## Risk Factors
+- Unprotected anal or vaginal sex.
+- Having another sexually transmitted infection (STI) such as syphilis, herpes, chlamydia, gonorrhea, and bacterial vaginosis.
+- Sharing contaminated needles, syringes and other injecting equipment and drug solutions when injecting drugs.
+- Receiving unsafe injections, blood transfusions and tissue transplantation, and medical procedures that involve unsterile cutting or piercing.
+- Experiencing accidental needle stick injuries, including among health workers.
+
+## Prevention
+- Use condoms correctly every time you have sex.
+- Pre-exposure prophylaxis (PrEP): HIV prevention medication for people who don't have HIV but who are at high risk of getting it.
+- Post-exposure prophylaxis (PEP): The use of antiretroviral drugs after a single high-risk event to stop HIV seroconversion.
+- Use a clean needle for injections.
+- Male circumcision.
+
+## Treatment
+There's no cure for HIV/AIDS, but many different drugs are available to control the virus. Such treatment is called antiretroviral therapy, or ART. Everyone diagnosed with HIV should be started on ART, regardless of their stage of infection or complications. ART is usually a combination of three or more medications from several different drug classes. This approach has the best chance of lowering the amount of HIV in the blood.

@@ -1,0 +1,56 @@
+COVID-19 (SARS-CoV-2) - WHO/CDC Public Health Guidelines
+
+Overview:
+COVID-19 is a respiratory illness caused by the SARS-CoV-2 virus. First identified in December 2019 in Wuhan, China, it rapidly spread worldwide and was declared a pandemic by WHO in March 2020. The virus primarily spreads through respiratory droplets and aerosols when an infected person coughs, sneezes, talks, or breathes. As of 2025, COVID-19 continues to circulate with periodic waves driven by new variants.
+
+Symptoms:
+Symptoms can appear 2–14 days after exposure and range from mild to severe. Common symptoms include:
+- Fever or chills
+- Cough (usually dry)
+- Shortness of breath or difficulty breathing
+- Fatigue
+- Muscle or body aches
+- Headache
+- New loss of taste or smell
+- Sore throat
+- Congestion or runny nose
+- Nausea, vomiting, or diarrhea
+
+Severe COVID-19:
+Risk factors for severe disease include advanced age (65+), obesity, diabetes, cardiovascular disease, chronic lung disease, immunosuppression, and chronic kidney disease. Severe manifestations include:
+- Pneumonia
+- Acute Respiratory Distress Syndrome (ARDS)
+- Multi-organ failure
+- Blood clotting disorders
+- Long COVID (Post-Acute Sequelae of SARS-CoV-2 / PASC)
+
+Long COVID:
+Some individuals experience persistent symptoms for weeks or months after the acute infection resolves. These may include:
+- Chronic fatigue
+- Brain fog and cognitive difficulties
+- Shortness of breath
+- Joint or muscle pain
+- Heart palpitations
+- Sleep disturbances
+- Depression or anxiety
+
+Prevention:
+1. Vaccination: COVID-19 vaccines remain the most effective tool for preventing severe disease, hospitalization, and death. Updated vaccines targeting current variants are recommended annually, similar to influenza vaccines.
+2. Masking: Wearing well-fitting masks (N95, KN95, or surgical masks) in crowded or poorly ventilated indoor spaces reduces transmission.
+3. Hand hygiene: Wash hands frequently with soap and water for at least 20 seconds or use hand sanitizer with at least 60% alcohol.
+4. Ventilation: Improve indoor air quality by opening windows, using air purifiers with HEPA filters, and ensuring proper ventilation systems.
+5. Testing and isolation: Test if symptomatic or after known exposure. Isolate if positive to prevent spreading to others.
+6. Physical distancing: Maintain distance from others, especially during outbreaks or in high-risk settings.
+
+Treatment:
+- Mild cases: Rest, hydration, and over-the-counter medications for symptom relief (acetaminophen, ibuprofen).
+- Antiviral medications: Nirmatrelvir/ritonavir (Paxlovid) is recommended for high-risk individuals within 5 days of symptom onset to reduce the risk of severe disease.
+- Monoclonal antibodies: Availability varies based on circulating variants; check current CDC/WHO guidance.
+- Severe cases: Hospitalized patients may require supplemental oxygen, dexamethasone (corticosteroid), remdesivir (antiviral), and supportive intensive care.
+- Long COVID management: Multidisciplinary rehabilitation addressing specific symptoms (pulmonary, cognitive, cardiac).
+
+When to Seek Medical Help:
+Seek emergency medical care if you experience difficulty breathing, persistent chest pain or pressure, confusion, inability to stay awake, or bluish lips or face. High-risk individuals should contact their healthcare provider promptly after a positive test.
+
+Source: World Health Organization (WHO), Centers for Disease Control and Prevention (CDC)
+Last Updated: March 2025
